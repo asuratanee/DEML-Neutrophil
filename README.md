@@ -4,7 +4,7 @@
 
 This repository contains the analysis pipeline accompanying the manuscript:
 
-> Apichat Suratanee, Steven Edwards, Helen Wright, and Kitiporn Plaimas. Complementary Transcriptional and Network-Level Functional Programs in Cytokine-Primed Human Neutrophils Revealed by DEG-Enhanced Machine Learning. *PLOS ONE* (under revision).
+> Apichat Suratanee, Steven Edwards, Helen Wright, and Kitiporn Plaimas. Complementary Transcriptional and Network-Level Functional Programs in Cytokine-Primed Human Neutrophils Revealed by DEG-Enhanced Machine Learning. (under revision).
 
 ---
 
@@ -211,7 +211,7 @@ The script fits one DESeq2 model to all 14 samples with `design = ~ Donor + Cyto
 
 If you use this code, please cite:
 
-> Apichat Suratanee, Steven Edwards, Helen Wright, and Kitiporn Plaimas. Complementary Transcriptional and Network-Level Functional Programs in Cytokine-Primed Human Neutrophils Revealed by DEG-Enhanced Machine Learning. *PLOS ONE* (under revision).
+> Apichat Suratanee, Steven Edwards, Helen Wright, and Kitiporn Plaimas. Complementary Transcriptional and Network-Level Functional Programs in Cytokine-Primed Human Neutrophils Revealed by DEG-Enhanced Machine Learning. (under revision).
 
 ---
 
