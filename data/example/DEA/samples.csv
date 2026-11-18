@@ -1,0 +1,15 @@
+Sample,Cytokine,Donor
+UT_1,UT,Donor_1
+UT_2,UT,Donor_2
+UT_3,UT,Donor_3
+UT_5,UT,Donor_5
+UT_6,UT,Donor_6
+GMCSF_1,GMCSF,Donor_6
+GMCSF_2,GMCSF,Donor_3
+GMCSF_4,GMCSF,Donor_5
+TNF_1,TNF,Donor_6
+TNF_2,TNF,Donor_3
+TNF_4,TNF,Donor_5
+GMT_1,GM_TNF,Donor_2
+GMT_2,GM_TNF,Donor_1
+GMT_3,GM_TNF,Donor_3
